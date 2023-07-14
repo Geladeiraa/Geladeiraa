@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarchmoon&label=Profile%20views&color=0e75b6&style=flat" alt="artoriusss" /> </p>
 
-- 🌱 I’m currently learning: **Cybersecurity with Python.**
+- 🌱 I’m currently learning: **Cybersecurity.**
 
 - ⚡ Fun fact: **Python was my first programming language.**
 
